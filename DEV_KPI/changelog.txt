@@ -1,0 +1,19 @@
+﻿Phiên bản v1.0.3 
+ 
+- Chỉnh sửa giao diện
+- Cho phép xóa Task
+- Validate mã nhân viên khi xóa
+- Hỏi trước khi xóa
+- Thêm change log
+- Thêm chức năng đăng nhập lại
+
+Phiên bản v1.0.4
+
+- Chỉnh sửa giao diện
+- Fix lại báo cáo
+- Fix gen sql tự động
+
+Phiên bản v1.0.5
+
+- Thêm phần phân quyền đánh giá
+- Sửa lỗi không hiển thị tên trên form quản lý
